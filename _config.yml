@@ -16,7 +16,7 @@
 title: Sand Island
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "http://caseyg.github.io/sandisland" # the subpath of your site, e.g. /blog
+baseurl: "/sandisland" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
